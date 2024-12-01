@@ -2,7 +2,7 @@
 
 # Tất Cả Mọi Thứ Ở Đây: 
 
-# **Youtube Premium** [Tại đây](https://github.com/manhokok/ytb-premium/releases/tag/Stable19.45.38)
+# [Youtube Premium](https://github.com/manhokok/ytb-premium/releases/tag/Stable19.46.42)
 
-# **Termux Tool** Sdcard [Tại Đây](https://github.com/manhokok/ToolSdcard/)
+# [Termux Tool](https://github.com/manhokok/ToolSdcard/)
 
