@@ -1,4 +1,3 @@
-# Chào Mừng Đến Với Trang Chủ Của Manhokok
 
 # Tất Cả Mọi Thứ Ở Đây: 
 
@@ -10,3 +9,4 @@
 
 # [Termux Tool](https://github.com/manhokok/ToolSdcard/)
 
+## Lưu ý: tất cả mod đều hoạt động, trong các ứng dụng này đều có cài đặt revanced
