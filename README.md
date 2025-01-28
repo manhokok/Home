@@ -3,7 +3,9 @@
 
 # [Tiktok Mod](https://github.com/manhokok/ytb-premium/releases/download/Final/tiktok-mod.apk)
 
-# [Youtube Premium](https://github.com/manhokok/ytb-premium/releases/download/Final/Youtube.Old.mod.lite.apk)
+# [Youtube Premium Lite](https://github.com/manhokok/ytb-premium/releases/download/Final/Youtube.Old.mod.lite.apk)
+
+# [Youtube Premium Full](https://github.com/manhokok/ytb-premium/releases/download/Final/youtube-premium-v19.47.53.apk)
 
 # [Youtube Music Premium](https://github.com/manhokok/ytb-premium/releases/download/Final/youtube-music-premium.apk)
 
