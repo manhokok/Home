@@ -2,9 +2,9 @@
 # Tất Cả Mọi Thứ Ở Đây: 
 
 
-# [Youtube Premium](https://github.com/manhokok/ytb-premium/releases/download/Final/youtube-premium-v19.47.53.apk)
+# [Youtube Premium](https://github.com/manhokok/Home/releases/download/5.6.2/youtube-v19.47.53-patches-5.6.2.apk)
 
-# [Youtube Music Premium](https://github.com/manhokok/ytb-premium/releases/download/Final/youtube-music-premium.apk)
+# [Youtube Music Premium](https://github.com/manhokok/Home/releases/download/5.6.2/Music-premium-v8.05.51-patches-5.6.2.apk)
 
 
 # [MicroG](https://github.com/ReVanced/GmsCore/releases/)
