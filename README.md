@@ -4,7 +4,7 @@
 
 # [Youtube Premium](https://github.com/manhokok/ytb-premium/releases/tag/V571)
 
-# [Youtube Music Premium](https://github.com/manhokok/ytb-music/releases/tag/V571)
+# [Youtube Music Premium](https://github.com/manhokok/ytb-music/releases/tag/V83153)
 
 
 # [MicroG](https://github.com/ReVanced/GmsCore/releases/)
