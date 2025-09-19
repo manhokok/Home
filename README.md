@@ -9,6 +9,8 @@
 
 # [MicroG](https://github.com/ReVanced/GmsCore/releases/)
 
+# [MicroG RE](https://github.com/WSTxda/MicroG-RE/releases/download/5.12/microg-release.apk)
+
 # [Seal](https://github.com/JunkFood02/Seal/releases/tag/v1.13.1)
 
 # **⚠️ Do not Reup**
